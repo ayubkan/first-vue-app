@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    margin: 15px 0;
+    text-align: center;
+    /* background-color: #2E8B57; */
+    background-color: #4F4F4F;
+    border-color: #000;
+    color: #2E8B57;
+}
